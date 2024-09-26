@@ -1,6 +1,6 @@
 package model;
 /*
-  Tác giả: Bùi Thiên Huy
+  Tác giả: Bùi Thiên Huy 
 */
 public class KhachHang {
     private String maso;
