@@ -1,6 +1,6 @@
 package gui;
 /*
-  Tác giả: Họ tên sinh viên
+  Tác giả: Bùi Thiên Huy
 */
 public class Program {
     public static void main(String[] args) {         

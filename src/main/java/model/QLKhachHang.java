@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import util.FileHelper;
 /*
-  Tác giả: Họ tên sinh viên
+  Tác giả: Bùi Thiên Huy
 */
 public class QLKhachHang {
 

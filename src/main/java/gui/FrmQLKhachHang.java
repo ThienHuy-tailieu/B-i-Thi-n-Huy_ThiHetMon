@@ -17,7 +17,7 @@ import model.KhachHang;
 import model.QLKhachHang;
 
 /*
-  Tác giả: Họ tên sinh viên
+  Tác giả: Bùi Thiên Huy
  */
 public class FrmQLKhachHang extends JFrame {
 
